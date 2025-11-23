@@ -10,7 +10,7 @@ Tenho 21 anos, fullstack developer, aqui eu posto alguns dos meus projetos, me a
 
 - ✨ Criando soluções desde **2021**  
 - 📚 Atualmente aperfeiçoando-me com projetos em **Angular** e **aprimorando minhas práticas na web**  
-- 🎯 Objetivo: me especializar em **desenvolvimento front-end** e **integração de sistemas**  
+- 🎯 Objetivo: me especializar em **desenvolvimento fullstack** e **integração de sistemas**  
 - 🎲 Curiosidade: gosto de criar pequenos projetos para automatizar tarefas do dia a dia  
 
 ###
