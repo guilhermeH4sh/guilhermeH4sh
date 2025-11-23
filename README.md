@@ -1,7 +1,7 @@
 <h2 align="left">👋 Oi! Sou o Guilherme</h2>
 
 <p align="left">
-Tenho 21 anos, fullstack developer, aqui eu posto alguns dos meus projetos, me acompanhe também no Linkedin! (Link no meu perfil do GitHub), estou sempre buscando aprimorar minhas habilidades com boas práticas de código.
+Tenho 21 anos, fullstack developer, aqui eu posto alguns dos meus projetos, me acompanhe também no Linkedin! (Link abaixo), estou sempre buscando aprimorar minhas habilidades com boas práticas de código.
 </p>
 
 ###
