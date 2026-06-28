@@ -44,11 +44,11 @@ Apaixonado por desenvolvimento de software, qualidade, arquitetura e criação d
 ## 🌐 Contato
 
 <p align="center">
-  <a href="https://linkedin.com/in/SEU_LINKEDIN">
+  <a href="https://www.linkedin.com/in/guilhermeff45/">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
   &nbsp;&nbsp;
-  <a href="mailto:SEU_EMAIL">
+  <a href="mailto:contact.guilherme.ff@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
 </p>
@@ -57,8 +57,8 @@ Apaixonado por desenvolvimento de software, qualidade, arquitetura e criação d
 
 <div align="center">
 
-### ⭐ Obrigado pela visita!
+### Obrigado pela visita!
 
-*"Building reliable software through quality and innovation."*
+*"O aumento do conhecimento é como uma esfera dilatando-se no espaço: quanto maior a nossa compreensão, maior o nosso contato com o desconhecido"*
 
 </div>
