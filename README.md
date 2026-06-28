@@ -1,8 +1,8 @@
 # Olá, eu sou Guilherme 👋
 
-### Test Engineer | Backend Developer
+### Fullstack Developer
 
-Apaixonado por desenvolvimento de software, qualidade, arquitetura e criação de soluções eficientes.
+Desenvolvimento de software, qualidade, arquitetura e criação de soluções eficientes.
 
 </div>
 
@@ -10,10 +10,11 @@ Apaixonado por desenvolvimento de software, qualidade, arquitetura e criação d
 
 ## 🚀 Sobre mim
 
-- 💻 Test Engineer com foco em qualidade de software.
-- 🐍 Desenvolvedor Backend em constante evolução.
-- 📚 Estudando Arquitetura de Software, APIs REST e Cloud.
+- 💻 Vivência como Test Engineer.
+- 🐍 Desenvolvedor Fullstack em constante evolução.
+- 📚 Estudando Arquitetura de Software, APIs REST e AWS Cloud.
 - 🎯 Buscando criar aplicações escaláveis e de alta qualidade.
+- 🔷 Ex membro da AIESEC.
 
 ---
 
@@ -29,7 +30,7 @@ Apaixonado por desenvolvimento de software, qualidade, arquitetura e criação d
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=github_dark&hide_border=true"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=https://github.com/guilhermeH4sh&show_icons=true&theme=github_dark&hide_border=true"/>
 
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=github_dark&hide_border=true"/>
 
