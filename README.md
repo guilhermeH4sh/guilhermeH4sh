@@ -1,148 +1,26 @@
-<div align="center">
+<h1 align="center">Olá! Sou Guilherme Ferreira</h1>
+<h3 align="center">Busco atuação com projetos fullstack. Também atuo como Test Engineer.</h3>
 
-# 👋 Olá, eu sou Guilherme
+- 🔭 I’m currently working on [API para biblioteca](https://github.com/guilhermeH4sh/api_biblioteca)
 
-### Test Engineer • Backend Developer • Software Quality Enthusiast
+- 🌱 I’m currently learning **Frameworks**
 
-*"Building reliable software through quality, architecture and innovation."*
+- 👨‍💻 All of my projects are available at [guilherme-ferreira-one.vercel.app](guilherme-ferreira-one.vercel.app)
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Test+Engineer;Backend+Developer;Python+%7C+Java+%7C+React;Always+Learning+Something+New" />
+- 💬 Ask me about **python, streamlit, poo**
 
-</div>
+- 📫 How to reach me **contact.guilherme.ff@gmail.com**
 
----
-
-# 💡 Sobre mim
-
-Sou **Test Engineer** apaixonado por desenvolvimento de software, qualidade, arquitetura e boas práticas de engenharia.
-
-Atualmente direciono meus estudos para desenvolvimento **Back-end**, criação de **APIs**, automação de testes e arquitetura de software, buscando construir aplicações escaláveis, organizadas e confiáveis.
-
----
-
-# 🚀 Tech Stack
-
-## Backend
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-E76F00?style=for-the-badge&logo=openjdk&logoColor=white)
-
----
-
-## Frontend
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)
-
----
-
-## Banco de Dados
-
-![MySQL](https://img.shields.io/badge/MySQL-black?style=for-the-badge&logo=mysql)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql)
-
----
-
-## Ferramentas
-
-![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)
-![Docker](https://img.shields.io/badge/Docker-black?style=for-the-badge&logo=docker)
-![Postman](https://img.shields.io/badge/Postman-black?style=for-the-badge&logo=postman)
-![VS Code](https://img.shields.io/badge/VSCode-black?style=for-the-badge&logo=visualstudiocode)
-
----
-
-# ⭐ Projetos em Destaque
-
-## 📚 Library API
-
-✔ Arquitetura em Camadas
-
-✔ Programação Orientada a Objetos
-
-✔ CRUD Completo
-
-✔ Persistência em JSON
-
-✔ Regex
-
-✔ Tratamento de Exceções
-
----
-
-## 🧪 Test Automation
-
-Automação de testes para aplicações Web e APIs.
-
----
-
-## 🌐 Web Projects
-
-Projetos focados em interfaces modernas, responsivas e boas práticas de desenvolvimento.
-
----
-
-# 📈 GitHub
-
-<div align="center">
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=<SEU_USUARIO>&show_icons=true&theme=github_dark&hide_border=true"/>
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=<SEU_USUARIO>&layout=compact&theme=github_dark&hide_border=true"/>
-
-</div>
-
----
-
-# 📊 GitHub Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=<SEU_USUARIO>&theme=github-dark&hide_border=true"/>
-
-</div>
-
----
-
-# 🎯 Atualmente
-
-- 📖 Arquitetura de Software
-- ⚙️ APIs REST
-- 🐍 Python
-- ☕ Java
-- ⚛️ React
-- 🐳 Docker
-- ☁️ Cloud Computing
-
----
-
-# 🌎 Conecte-se comigo
-
-<p align="center">
-
-<a href="<SEU_LINKEDIN>">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="mailto:<SEU_EMAIL>">
-<img src="https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="<SEU_PORTFOLIO>">
-<img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=vercel"/>
-</a>
-
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/guilhermeff45/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/guilhermeff45/" height="30" width="40" /></a>
 </p>
 
----
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.cypress.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://quasar.dev/" target="_blank" rel="noreferrer"> <img src="https://cdn.quasar.dev/logo/svg/quasar-logo.svg" alt="quasar" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
 
-<div align="center">
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=guilhermeh4sh&show_icons=true&locale=en&layout=compact" alt="guilhermeh4sh" /></p>
 
-### 💻 "Quality is never an accident. It is always the result of intelligent effort."
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=guilhermeh4sh&show_icons=true&locale=en" alt="guilhermeh4sh" /></p>
 
-⭐ Obrigado por visitar meu perfil!
-
-</div>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=guilhermeh4sh&" alt="guilhermeh4sh" /></p>
