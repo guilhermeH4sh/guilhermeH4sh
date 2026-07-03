@@ -18,7 +18,7 @@ Desenvolvimento de software, qualidade, arquitetura e criação de soluções ef
 
 ---
 
-## 🛠️ Tecnologias
+## Tecnologias
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,java,react,js,html,css,nodejs,mysql,postgres,docker,git,github,vscode,postman" />
@@ -26,7 +26,7 @@ Desenvolvimento de software, qualidade, arquitetura e criação de soluções ef
 
 ---
 
-## 🌐 Contato
+## Contato
 
 <p align="center">
   <a href="https://www.linkedin.com/in/guilhermeff45/">
