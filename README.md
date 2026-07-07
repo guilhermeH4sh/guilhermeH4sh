@@ -10,11 +10,11 @@ Desenvolvimento de software, qualidade, arquitetura e criação de soluções ef
 
 ## 🚀 Sobre mim
 
-- 💻 Vivência como Test Engineer.
-- 🐍 Desenvolvedor Fullstack em constante evolução.
-- 📚 Estudando Arquitetura de Software, APIs REST e AWS Cloud.
-- 🎯 Buscando criar aplicações escaláveis e de alta qualidade.
-- 🔷 Ex membro da AIESEC.
+💻 Vivência como Test Engineer.
+🐍 Desenvolvedor Fullstack em constante evolução.
+📚 Estudando Arquitetura de Software, APIs REST e AWS Cloud.
+🎯 Buscando criar aplicações escaláveis e de alta qualidade.
+🔷 Ex membro da AIESEC.
 
 ---
 
