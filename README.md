@@ -45,14 +45,24 @@ Desenvolvimento de software, qualidade, arquitetura e criação de soluções ef
 
 ---
 
+## Projetos em destaque
+
+<div align="center">
+
+[![API](https://img.shields.io/badge/API-000000?style=for-the-badge&logo=fastapi&logoColor=white)](https://github.com/guilhermeH4sh/api)
+[![Kindle](https://img.shields.io/badge/Kindle-FF9900?style=for-the-badge&logo=amazonkindle&logoColor=white)](https://github.com/guilhermeH4sh/kindle)
+[![CRUD Node](https://img.shields.io/badge/CRUD_Node-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://github.com/guilhermeH4sh/crud-node)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/guilhermeH4sh/portfolio)
+
+</div>
+
+---
+
 ## Estatísticas
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=guilhermeH4sh&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="49%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermeH4sh&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&hide=html,css" alt="Top Langs" width="42%"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=guilhermeH4sh&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="70%"/>
+<img src="https://streak-stats.demolab.com/?user=guilhermeH4sh&theme=tokyonight&hide_border=true&starting_year=2025" alt="GitHub Streak" width="70%"/>
 
 </div>
 
@@ -62,7 +72,7 @@ Desenvolvimento de software, qualidade, arquitetura e criação de soluções ef
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](#)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](#)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilhermeff45/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact.guilherme.ff@gmail.com)
 
 </div>
