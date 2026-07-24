@@ -50,7 +50,7 @@ Desenvolvimento de software, qualidade, arquitetura e criação de soluções ef
 <div align="center">
 
 [![API](https://img.shields.io/badge/API-000000?style=for-the-badge&logo=fastapi&logoColor=white)](https://github.com/guilhermeH4sh/api)
-[![Kindle](https://img.shields.io/badge/Kindle-FF9900?style=for-the-badge&logo=amazonkindle&logoColor=white)]([https://github.com/guilhermeH4sh/kindle])
+[![Kindle](https://img.shields.io/badge/Kindle-FF9900?style=for-the-badge&logo=amazonkindle&logoColor=white)](https://github.com/guilhermeH4sh/kindle)
 [![CRUD Node](https://img.shields.io/badge/CRUD_Node-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://github.com/guilhermeH4sh/crud-node)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/guilhermeH4sh/portfolio)
 
